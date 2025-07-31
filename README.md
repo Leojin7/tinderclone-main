@@ -1,2 +1,2 @@
-# tinderclone-main
-tinder clone
+# tinderclone
+Created with CodeSandbox
